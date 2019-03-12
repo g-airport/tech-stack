@@ -9,6 +9,7 @@
 | GO官方文档 |[GO官方文档](https://golang.org/doc/) |
 | GO官方博客 |[GO官方博客](https://blog.golang.org/)|
 | GO Help  | [GO Cmd Help](https://golang.org/pkg/cmd/go/internal/help/)|
+| Go Talks | [talks go](https://talks.golang.org/) |
 
 ### Golang Base
 
@@ -18,6 +19,10 @@
 | GO语言圣经   |  入门进阶 | [GO语言圣经](https://books.studygolang.com/gopl-zh/)|
 | The GO Programming Language |   
 | GO知识图谱 | GoCN 介绍golang学习之路 | [GO知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
+| GO项目搜索 | Go Walker | [Walker](https://gowalker.org/) |
+| GO Trap  | 50 Shades of GO for New Golang| [50 Shades](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html) |
+| Block go different way | Blog | [Block Golang](https://pliutau.com/different-ways-to-block-go-runtime-forever/) |
+
 
 ### Golang Advanced
 
@@ -33,6 +38,10 @@
 | GO Concurrency Patterns | Official Part 1 | [go to](https://talks.golang.org/2012/concurrency.slide#1) 
 | GO Advanced Concurrency | Official Part 2 | [go to](https://talks.golang.org/2013/advconc.slide#2)
 | Rethinking GO Concurrency | Bryan Mills | [go to](https://dochub.com/dddddonly8/vpMezW/rethinking-classical-concurrency-patterns?dt=h7_fbcAhYyFqxj89HfG4) |
+| Uber Go repo | Uber | [go to](https://go.uber.org/) |
+| GO Memory Allocator | Document | [go to](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed) |
+| GO 最佳实践 | Document | [Best Practice](https://dave.cheney.net/practical-go/presentations/qcon-china.html) |
+
 
 
 
@@ -45,11 +54,14 @@
 | Russ Cox Blog 👍 | Golang 作者博客(**强烈推荐**)| [Research ! rsc](https://research.swtch.com/) |
 | Rakyll 👍 | Google | [GO tool essentials](https://rakyll.org/go-tool-flags/) |
 | Faith Arslan 👍 | Faith Struct , Pool , Go Tool | [Faith Blog](https://arslan.io/) |
-| Anna Rob 👍 | Go Low Level | [go to](https://blogtitle.github.io/categories/go/)
+| Anna Rob 👍 | Go Low Level | [go to](https://blogtitle.github.io/categories/go/) |
+| Dave Cheney 👍| Go Author | [go to](https://dave.cheney.net/category/golang)
 | No Headback | Golang 源码分析分享 |[Golang技术博客文章 ](http://xargin.com/) |
 | Keep Coding | GC | [go to](https://liujiacai.net/)
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
+| ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
+
 
 
  
@@ -58,11 +70,14 @@
 
 [Build-Web-application-With-Golang](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) \
 [SWIG and Go](http://www.swig.org/Doc2.0/Go.html) \
-[GIN中文文档](https://github.com/skyhee/gin-doc-cn) 
+[GIN中文文档](https://github.com/skyhee/gin-doc-cn) \
+[GoWorker](https://www.goworker.org/) \
+[Go DNS Package](https://miek.nl/2014/august/16/go-dns-package/) \
+
 
 ### Delve Docker & K8s
 
-| 文档💾 | 描述 | 链接 |
+| 文档⌨️ | 描述 | 链接 |
 | --- | --- | --- |
 | Docker中文指南 | 入门 | [Docker 入门指南](https://www.widuu.com/chinese_docker/index.html) |
 | Docker 从入门到实践 | 实践 | [Docker 入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)|
@@ -74,26 +89,38 @@
 
 ### OS 
 
-| 文档💾 | 描述 | 链接 |
+| 文档⌨️ | 描述 | 链接 |
 | --- | --- | --- |
 | 系统设计 | GitHub | [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 | VSDO 7 | virtual dynamic shared object | [vsdo](http://man7.org/linux/man-pages/man7/vdso.7.html)
 | Redis 设计与实现 | Book | [go to](http://redisbook.com/index.html) | 
+| int 21 | DOS Func code | [go to](http://stanislavs.org/helppc/int_21.html) |
+| Linux WB | write barrier | [go to](https://github.com/torvalds/linux/blob/master/Documentation/memory-barriers.txt) |
+| Std Memory Order | C++ | [go to](https://en.cppreference.com/w/cpp/atomic/memory_order)
+| Linux Zero Copy | Linux Journal | [go to](https://www.linuxjournal.com/article/6345) |
+| 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |
+
+
 
 
 ### Network
 
-| 文档💾 | 描述 | 链接 |
+| 文档⌨️ | 描述 | 链接 |
 | --- | --- | --- |
 | Guide IP  | Network Administration with Linux |  [Linux-Ip](http://linux-ip.net/html/)  |
+| TLS connection | 介绍 TLS 连接过程 | [TLS](https://tls.ulfheim.net/) |
+| HTTP2 Header Compression | Intro HPACK | [HeadPack](http://http2.github.io/http2-spec/compression.html#integer.representation) |
+
 
 ### MicroService
 
-| 文档💾 | 描述 | 链接 |
+| 文档⌨️ | 描述 | 链接 |
 | --- | --- | --- |
-| gRpc Http2    |  协议介绍    |  [go to](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md)   |
-| gRpc Doc    | Document | [gRpc官方文档中文版](http://doc.oschina.net/grpc?t=57966) |
+| gRPC Http2    |  协议介绍    |  [go to](https://github.com/grpc/grpc/blob/master/doc/PROTOCOL-HTTP2.md)   |
+| gRPC Doc    | Document | [gRpc官方文档中文版](http://doc.oschina.net/grpc?t=57966) |
 | Go RPC 开发 | Remote Procedure Call  |[Go RPC 开发指南](https://books.studygolang.com/go-rpc-programming-guide/) |
+| Go Microservices Blog | micro | [go to](https://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)|
+
 
 
 
@@ -111,7 +138,7 @@
 
 ### Tech Stack
 
-| 文档💾 | 描述 | 链接 |
+| 文档⌨️ | 描述 | 链接 |
 | --- | --- | --- |
 | Git | git tool | [go to](https://git-scm.com/book/zh/v2) |
 | Jeffrey | Google | [go to](https://ai.google/research/people/jeff) |
@@ -126,6 +153,17 @@
 | RabbitMQ中文文档 | 文档 | [go to](http://rabbitmq.mr-ping.com/) |
 | Centrifugal Doc | Document | [go to](https://fzambia.gitbooks.io/centrifugal/content/) |
 | AWK | Document | [go to](https://awk.readthedocs.io/en/latest/chapter-one.html) |
+| Google API Design | Document | [go to](https://google-cloud.gitbook.io/api-design-guide)|
+| Redis Command | Document |[go to](http://doc.redisfans.com/) |
+| Nginx 中文文档 | Document | [go to](http://www.nginx.cn/doc/)|
+| Json RPC 2.0 | Document | [go to](http://wiki.geekdream.com/Specification/json-rpc_2.0.html)|
+| Protocol Buffer | Document | [go to](https://developers.google.com/protocol-buffers/docs/overview) |
+| Vue+Go Build APP| Document | [go to](https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue)|
+| Url Routing | Document | [go to](http://werkzeug.pocoo.org/docs/0.14/routing/) |
+| Ethereum Home | Document | [go to](http://www.ethdocs.org/en/latest/index.html) |
+
+
+
 
 
 
@@ -159,6 +197,8 @@
 
 [TRUFFLE](https://truffleframework.com/tutorials)
 
+[阿里Tech-Blog](http://jm.taobao.org/)
+
 
 ### Trick API
 
@@ -168,12 +208,18 @@
 
 [ASCII Art](https://asciiart.website/)
 
+[Redis Modules API ](https://redis.io/topics/modules-api-ref)
+
+[Linux Repo](https://www.tolaris.com/apt-repository/)
+
 
 ### Tips
 
 [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 
 [Gopher 2018 Demystifying Binary Search Tree Algorithms](https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms)
+
+[剑指Offer](https://www.nowcoder.com/ta/coding-interviews?page=1)
 
 [Python Interview 😁](https://github.com/taizilongxu/interview_python)
 
