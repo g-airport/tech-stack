@@ -61,6 +61,7 @@
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
 | ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
+| GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
 
 
 
@@ -72,7 +73,7 @@
 [SWIG and Go](http://www.swig.org/Doc2.0/Go.html) \
 [GIN中文文档](https://github.com/skyhee/gin-doc-cn) \
 [GoWorker](https://www.goworker.org/) \
-[Go DNS Package](https://miek.nl/2014/august/16/go-dns-package/) \
+[Go DNS Package](https://miek.nl/2014/august/16/go-dns-package/) 
 
 
 ### Delve Docker & K8s
