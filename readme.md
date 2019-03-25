@@ -61,7 +61,8 @@
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
 | ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
-| GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md)
+| GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
+| Artem Krylysov Blog | About String, AWS Lambda,PProf | [go blog](https://artem.krylysov.com/blog/)
 
 
 
