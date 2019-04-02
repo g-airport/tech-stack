@@ -22,6 +22,8 @@
 | GO项目搜索 | Go Walker | [Walker](https://gowalker.org/) |
 | GO Trap  | 50 Shades of GO for New Golang| [50 Shades](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html) |
 | Block go different way | Blog | [Block Golang](https://pliutau.com/different-ways-to-block-go-runtime-forever/) |
+| Learn go with test | Book | [简体中文版](https://studygolang.gitbook.io/learn-go-with-tests/) |
+| | |[English Version](https://quii.gitbook.io/learn-go-with-tests) |
 
 
 ### Golang Advanced
