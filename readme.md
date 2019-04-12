@@ -9,7 +9,14 @@
 | GO官方文档 |[GO官方文档](https://golang.org/doc/) |
 | GO官方博客 |[GO官方博客](https://blog.golang.org/)|
 | GO Help  | [GO Cmd Help](https://golang.org/pkg/cmd/go/internal/help/)|
-| Go Talks | [talks go](https://talks.golang.org/) |
+| Go Talks | [Talks Go](https://talks.golang.org/) |
+| Go Wiki  | [Official](https://github.com/golang/go/wiki) |
+
+- Tips:
+
+    [Learning](https://github.com/golang/go/wiki/Learn) \
+    [Golang News](https://golangnews.com/) \
+    [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
 
 ### Golang Base
 
@@ -64,7 +71,10 @@
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
 | ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
 | GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
-| Artem Krylysov Blog | About String, AWS Lambda,PProf | [go blog](https://artem.krylysov.com/blog/)
+| Artem Krylysov Blog | About String, AWS Lambda,PProf | [go blog](https://artem.krylysov.com/blog/) |
+| GopherChain2018 | Some Issue Code | [go to](https://github.com/sebarzi/gopherchain2018) |
+| Misfra | MISFRAME Blog | [go to](https://misfra.me/) |
+
 
 
 
