@@ -50,6 +50,7 @@
 | Uber Go repo | Uber | [go to](https://go.uber.org/) |
 | GO Memory Allocator | Document | [go to](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed) |
 | GO 最佳实践 | Document | [Best Practice](https://dave.cheney.net/practical-go/presentations/qcon-china.html) |
+| Kavya Source Code |关于一些源码研究的PPT，2018GoPher大会 | [GoPher Con PPT](https://speakerdeck.com/kavya719)|
 
 
 
