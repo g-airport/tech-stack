@@ -16,7 +16,8 @@
 
     [Learning](https://github.com/golang/go/wiki/Learn) \
     [Golang News](https://golangnews.com/) \
-    [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes)
+    [CommonMistakes](https://github.com/golang/go/wiki/CommonMistakes) \
+    [Applied Go, practice some interesting](https://appliedgo.net/) 
 
 ### Golang Base
 
