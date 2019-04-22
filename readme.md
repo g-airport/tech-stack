@@ -4,13 +4,14 @@
 
 ### Authentication Paper
 
-| Paper📚 | 链接 |
+| Paper📚 | Link |
 | --- | --- |
-| GO官方文档 |[GO官方文档](https://golang.org/doc/) |
-| GO官方博客 |[GO官方博客](https://blog.golang.org/)|
+| GO官方文档 |[GO Official Doc](https://golang.org/doc/) |
+| GO官方博客 |[GO Official Blog](https://blog.golang.org/)|
 | GO Help  | [GO Cmd Help](https://golang.org/pkg/cmd/go/internal/help/)|
 | Go Talks | [Talks Go](https://talks.golang.org/) |
 | Go Wiki  | [Official](https://github.com/golang/go/wiki) |
+| Go Time | [Change Future](https://changelog.com/gotime)|
 
 - Tips:
 
