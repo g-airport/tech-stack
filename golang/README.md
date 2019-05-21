@@ -8,4 +8,4 @@
     go test -bench=. -benchmem -benchtime=3s -cpuprofile=profile.out
 ```
 
-![bench result](https://github.com/g-airport/golang-note/blob/master/currency-pattern/benchmark.jpg)
+![bench result](https://github.com/g-airport/tech-stack/blob/master/golang/currency-pattern/benchmark.jpg)
