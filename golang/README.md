@@ -9,3 +9,8 @@
 ```
 
 ![bench result](https://github.com/g-airport/golang-note/blob/master/currency-pattern/benchmark.jpg)
+
+- 并发控制 
+
+- chan
+- [semaphore](https://godoc.org/golang.org/x/sync/semaphore#example-package--WorkerPool)
