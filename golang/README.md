@@ -15,3 +15,7 @@
 - [semaphore](https://godoc.org/golang.org/x/sync/semaphore#example-package--WorkerPool)
 
 ![bench result](https://github.com/g-airport/tech-stack/blob/master/golang/currency-pattern/benchmark.jpg)
+
+#### golang double check
+
+- [Thread Safe](https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/)
