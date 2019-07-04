@@ -33,6 +33,7 @@
 | Block go different way | Blog | [Block Golang](https://pliutau.com/different-ways-to-block-go-runtime-forever/) |
 | Learn go with test | Book | [简体中文版](https://studygolang.gitbook.io/learn-go-with-tests/) |
 | | |[English Version](https://quii.gitbook.io/learn-go-with-tests) |
+| 面向信仰编程 | 浅谈 Go 语言实现原理 |[Go语言实现原理](https://draveness.me/golang/)|
 
 
 ### Golang Advanced
@@ -84,6 +85,7 @@
 | Misfra | MISFRAME Blog | [go to](https://misfra.me/) |
 | Acolyer|Acolyer Blog,morning paper|[go to](blog.acolyer.org) |
 |Poslua Blog|一些常见问题调试 关于golang|[Poslua Blog](https://ms2008.github.io/)|
+|面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)
 
 
 
