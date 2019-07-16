@@ -12,6 +12,8 @@
 | Go Talks | [Talks Go](https://talks.golang.org/) |
 | Go Wiki  | [Official](https://github.com/golang/go/wiki) |
 | Go Time | [Change Future](https://changelog.com/gotime)|
+| Go Basic | [Getting up and running with Go](http://www.golangprograms.com/) |
+| Go OS Process Algo | [Go Concurrency](http://www.golangprograms.com/go-language/concurrency.html) |
 
 - Tips:
 
