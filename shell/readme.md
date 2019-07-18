@@ -71,8 +71,10 @@
     spawn ssh -p 2222 -i pem_file dst_address 
     expect {
     	MFA {send \"$code\r\"; exp_continue}
+       "Opt*"  {send \"\r\" }
     }
     interact
+    exit
     "
 ```
 
