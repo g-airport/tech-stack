@@ -48,6 +48,7 @@
 `dst_address = username(or eamil)@jumpserver`                  //要访问的 jump server
 
 ```bash
+    #!/bin/sh
     # jump.sh
     oathtool --totp -b $secret| pbcopy  # 获取 验证码
     ssh -p 2222 -i pem_file dst_address # 端口指定，这里假如是 2222 
@@ -62,6 +63,7 @@
 
 
 ```bash
+    #!/bin/sh
     # jump.sh
     code=`oathtool --totp -b $secret` # 替换MFA CODE
     echo  "MFA code:",$code
@@ -70,6 +72,7 @@
     expect {
     	MFA {send \"$code\r\"; exp_continue}
     }
+    interact
     "
 ```
 
