@@ -43,8 +43,8 @@
 
 - shell 变量 
 
-`$secret= xxxxxxxxxxxxxxxxxxx`                                 //code
-`pem_file=/path`                                               //ssh 证书路径
+`$secret= xxxxxxxxxxxxxxxxxxx`                                 //code \
+`pem_file=/path`                                               //ssh 证书路径 \
 `dst_address = username(or eamil)@jumpserver`                  //要访问的 jump server
 
 ```bash
