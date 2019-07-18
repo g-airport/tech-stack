@@ -44,7 +44,7 @@
 - shell 变量 
 
 `$secret= xxxxxxxxxxxxxxxxxxx`                                 //code \
-`pem_file=/path`                                               //ssh 证书路径 \
+`pem_file=/path`                                               //ssh 证书路径 .pem (直接使用) or .pub (需要先将.pub内容添加到https://jump.xxx.io/users/profile/) 更改SSH密钥 \
 `dst_address = username(or eamil)@jumpserver`                  //要访问的 jump server
 
 ```bash
