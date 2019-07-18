@@ -30,7 +30,7 @@
     2. 对于Mac🤣: brew install oath-toolkit 
 ```
 
-    修改MFA $secret 
+    修改MFA $secret  https://jump.xxx.io/users/profile/
 ![jump_web](MFA_panel.jpg)
 ![jump_web](MFA_check.jpg)
 ![jump_web](MFA_new_code.jpg)
