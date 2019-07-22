@@ -1,6 +1,6 @@
 ## Stack Here
 
-`Golang` `OS` `Delve` [`Note`](https://github.com/g-airport/tech-stack/tree/master/golang) [`Tool`](https://github.com/g-airport/tool-box)
+`Golang` [`OS`](https://github.com/g-airport/tech-stack/tree/master/os) `Delve` [`Note`](https://github.com/g-airport/tech-stack/tree/master/golang) [`Tool`](https://github.com/g-airport/tool-box)
 
 ### Authentication Paper
 
