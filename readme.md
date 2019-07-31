@@ -74,18 +74,18 @@
 | Russ Cox Blog 👍 | Golang 作者博客(**强烈推荐**)| [Research ! rsc](https://research.swtch.com/) |
 | Rakyll 👍 | Google | [GO tool essentials](https://rakyll.org/go-tool-flags/) |
 | Faith Arslan 👍 | Faith Struct , Pool , Go Tool | [Faith Blog](https://arslan.io/) |
-| Anna Rob 👍 | Go Low Level | [go to](https://blogtitle.github.io/categories/go/) |
-| Dave Cheney 👍| Go Author | [go to](https://dave.cheney.net/category/golang)
+| Anna Rob 👍 | Go Low Level | [Anna](https://blogtitle.github.io/categories/go/) |
+| Dave Cheney 👍| Go Author | [Dave](https://dave.cheney.net/category/golang)
 | No Headback | Golang 源码分析分享  [曹大，春哥，辉神](https://github.com/cch123) |[Golang技术博客文章 ](http://xargin.com/) |
-| Keep Coding | GC | [go to](https://liujiacai.net/)
+| Keep Coding | GC | [Go](https://liujiacai.net/)
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
 | ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
-| GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
+| GO 42| 一位gopher的采坑总结 | [Go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
 | Artem Krylysov Blog | About String, AWS Lambda,PProf | [go blog](https://artem.krylysov.com/blog/) |
-| GopherChain2018 | Some Issue Code | [go to](https://github.com/sebarzi/gopherchain2018) |
-| Misfra | MISFRAME Blog | [go to](https://misfra.me/) |
-| Acolyer|Acolyer Blog,morning paper|[go to](blog.acolyer.org) |
+| GopherChain2018 | Some Issue Code | [Go](https://github.com/sebarzi/gopherchain2018) |
+| Misfra | MISFRAME Blog | [Go](https://misfra.me/) |
+| Acolyer|Acolyer Blog,morning paper|[Go](blog.acolyer.org) |
 |Poslua Blog|一些常见问题调试 关于golang|[Poslua Blog](https://ms2008.github.io/)|
 |面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)
 
@@ -110,7 +110,7 @@
 | --- | --- | --- |
 | Docker中文指南 | 入门 | [Docker 入门指南](https://www.widuu.com/chinese_docker/index.html) |
 | Docker 从入门到实践 | 实践 | [Docker 入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)|
-| K8s Blog | 实践 | [go to](https://feisky.xyz/) |
+| K8s Blog | 实践 | [Go](https://feisky.xyz/) |
 
 
 
