@@ -14,6 +14,8 @@
 | Go Time | [Change Future](https://changelog.com/gotime)|
 | Go Basic | [Getting up and running with Go](http://www.golangprograms.com/) |
 | Go OS Process Algo | [Go Concurrency](http://www.golangprograms.com/go-language/concurrency.html) |
+| Gopher Academy| [Get Golang Advent :2018(Cur)](https://blog.gopheracademy.com/series/advent-2018/) |
+| Dave Cheney 👍| [Dave :Author Paper](https://dave.cheney.net/category/golang)|
 
 - Tips:
 
@@ -75,7 +77,6 @@
 | Rakyll 👍 | Google | [GO tool essentials](https://rakyll.org/go-tool-flags/) |
 | Faith Arslan 👍 | Faith Struct , Pool , Go Tool | [Faith Blog](https://arslan.io/) |
 | Anna Rob 👍 | Go Low Level | [Anna](https://blogtitle.github.io/categories/go/) |
-| Dave Cheney 👍| Go Author | [Dave](https://dave.cheney.net/category/golang)
 | No Headback | Golang 源码分析分享  [曹大，春哥，辉神](https://github.com/cch123) |[Golang技术博客文章 ](http://xargin.com/) |
 | Keep Coding | GC | [Go](https://liujiacai.net/)
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
