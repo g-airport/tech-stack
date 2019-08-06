@@ -88,7 +88,9 @@
 | Misfra | MISFRAME Blog | [Go](https://misfra.me/) |
 | Acolyer|Acolyer Blog,morning paper|[Go](blog.acolyer.org) |
 |Poslua Blog|一些常见问题调试 关于golang|[Poslua Blog](https://ms2008.github.io/)|
-|面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)
+|面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)|
+|煎架构 迷之博客| Gin,Grpc,详尽的 Learning Map | [EDDYCJY' Blog](https://book.eddycjy.com/golang/)|
+
 
 
 
