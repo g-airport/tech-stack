@@ -131,7 +131,9 @@
 | Linux WB | write barrier | [go to](https://github.com/torvalds/linux/blob/master/Documentation/memory-barriers.txt) |
 | Std Memory Order | C++ | [go to](https://en.cppreference.com/w/cpp/atomic/memory_order)
 | Linux Zero Copy | Linux Journal | [go to](https://www.linuxjournal.com/article/6345) |
-| 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |
+| 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |  
+| CoreOS     | K8s Ecology      | [go to](https://coreos.com/blog/technical-posts) |
+
 
 
 
