@@ -1,6 +1,6 @@
 ## Stack Here
 
-`Golang` `OS` `Delve` [`Note`](https://github.com/g-airport/tech-stack/tree/master/golang)
+`Golang` [`OS`](https://github.com/g-airport/tech-stack/tree/master/os) [`Net`](https://github.com/g-airport/tech-stack/tree/master/net) [`Note`](https://github.com/g-airport/tech-stack/tree/master/golang) [`Tool`](https://github.com/g-airport/tool-box) `Delve`
 
 ### Authentication Paper
 
@@ -14,6 +14,9 @@
 | Go Time | [Change Future](https://changelog.com/gotime)|
 | Go Basic | [Getting up and running with Go](http://www.golangprograms.com/) |
 | Go OS Process Algo | [Go Concurrency](http://www.golangprograms.com/go-language/concurrency.html) |
+| Gopher Academy| [Get Golang Advent :2018(Cur)](https://blog.gopheracademy.com/series/advent-2018/) |
+| Dave Cheney 👍| [Dave :Author Paper](https://dave.cheney.net/category/golang)|
+| Golang China | [Go 语言中文网](https://studygolang.com/)
 
 - Tips:
 
@@ -74,20 +77,21 @@
 | Russ Cox Blog 👍 | Golang 作者博客(**强烈推荐**)| [Research ! rsc](https://research.swtch.com/) |
 | Rakyll 👍 | Google | [GO tool essentials](https://rakyll.org/go-tool-flags/) |
 | Faith Arslan 👍 | Faith Struct , Pool , Go Tool | [Faith Blog](https://arslan.io/) |
-| Anna Rob 👍 | Go Low Level | [go to](https://blogtitle.github.io/categories/go/) |
-| Dave Cheney 👍| Go Author | [go to](https://dave.cheney.net/category/golang)
+| Anna Rob 👍 | Go Low Level | [Anna](https://blogtitle.github.io/categories/go/) |
 | No Headback | Golang 源码分析分享  [曹大，春哥，辉神](https://github.com/cch123) |[Golang技术博客文章 ](http://xargin.com/) |
-| Keep Coding | GC | [go to](https://liujiacai.net/)
+| Keep Coding | GC | [Go](https://liujiacai.net/)
 | GO 夜读 | golang 技术探讨 | [Golang 源码分析,技术讨论](https://github.com/developer-learning/night-reading-go)|
 | Gopher Reading List | Reading Ref | [Gopher reading](https://github.com/enocom/gopher-reading-list) |
 | ArdanLibs | Nice Blog | [ArdanLibs](https://www.ardanlabs.com/blog/) |
-| GO 42| 一位gopher的采坑总结 | [go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
+| GO 42| 一位gopher的采坑总结 | [Go 42](https://github.com/ffhelicopter/Go42/blob/master/SUMMARY.md) |
 | Artem Krylysov Blog | About String, AWS Lambda,PProf | [go blog](https://artem.krylysov.com/blog/) |
-| GopherChain2018 | Some Issue Code | [go to](https://github.com/sebarzi/gopherchain2018) |
-| Misfra | MISFRAME Blog | [go to](https://misfra.me/) |
-| Acolyer|Acolyer Blog,morning paper|[go to](blog.acolyer.org) |
+| GopherChain2018 | Some Issue Code | [Go](https://github.com/sebarzi/gopherchain2018) |
+| Misfra | MISFRAME Blog | [Go](https://misfra.me/) |
+| Acolyer|Acolyer Blog,morning paper|[Go](blog.acolyer.org) |
 |Poslua Blog|一些常见问题调试 关于golang|[Poslua Blog](https://ms2008.github.io/)|
-|面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)
+|面向信仰编程 Blog | K8s，Golang,OS Blog | [Draveness's Blog](https://draveness.me/)|
+|煎架构 迷之博客| Gin,Grpc,详尽的 Learning Map | [EDDYCJY' Blog](https://book.eddycjy.com/golang/)|
+
 
 
 
@@ -110,7 +114,7 @@
 | --- | --- | --- |
 | Docker中文指南 | 入门 | [Docker 入门指南](https://www.widuu.com/chinese_docker/index.html) |
 | Docker 从入门到实践 | 实践 | [Docker 入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)|
-| K8s Blog | 实践 | [go to](https://feisky.xyz/) |
+| K8s Blog | 实践 | [Go](https://feisky.xyz/) |
 
 
 
@@ -127,7 +131,9 @@
 | Linux WB | write barrier | [go to](https://github.com/torvalds/linux/blob/master/Documentation/memory-barriers.txt) |
 | Std Memory Order | C++ | [go to](https://en.cppreference.com/w/cpp/atomic/memory_order)
 | Linux Zero Copy | Linux Journal | [go to](https://www.linuxjournal.com/article/6345) |
-| 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |
+| 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |  
+| CoreOS     | K8s Ecology      | [go to](https://coreos.com/blog/technical-posts) |
+
 
 
 
@@ -190,6 +196,7 @@
 | Vue+Go Build APP| Document | [go to](https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue)|
 | Url Routing | Document | [go to](http://werkzeug.pocoo.org/docs/0.14/routing/) |
 | Ethereum Home | Document | [go to](http://www.ethdocs.org/en/latest/index.html) |
+| Kafka Application | Blog | [go to](https://www.confluent.io/blog/) |
 
 
 
