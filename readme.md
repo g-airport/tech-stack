@@ -105,7 +105,8 @@
 [GIN中文文档](https://github.com/skyhee/gin-doc-cn) \
 [GoWorker](https://www.goworker.org/) \
 [Go DNS Package](https://miek.nl/2014/august/16/go-dns-package/) \
-[Mirco Practice](https://ewanvalentine.io/microservices-in-golang-part-1/)
+[Mirco Practice](https://ewanvalentine.io/microservices-in-golang-part-1/) \
+[Micro Practice2](https://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 
 
 ### Delve Docker & K8s
