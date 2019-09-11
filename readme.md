@@ -198,6 +198,7 @@
 | Url Routing | Document | [go to](http://werkzeug.pocoo.org/docs/0.14/routing/) |
 | Ethereum Home | Document | [go to](http://www.ethdocs.org/en/latest/index.html) |
 | Kafka Application | Blog | [go to](https://www.confluent.io/blog/) |
+| Web Developer | Document | [go to](https://developer.mozilla.org/zh-CN/docs/Web) |
 
 
 
