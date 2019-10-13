@@ -8,6 +8,7 @@
 | --- | --- |
 | GO官方文档 |[GO Official Doc](https://golang.org/doc/) |
 | GO官方博客 |[GO Official Blog](https://blog.golang.org/)|
+| GO官方仓库 |[GO Source Repo](https://go.googlesource.com/) |
 | GO Help  | [GO Cmd Help](https://golang.org/pkg/cmd/go/internal/help/)|
 | Go Talks | [Talks Go](https://talks.golang.org/) |
 | Go Wiki  | [Official](https://github.com/golang/go/wiki) |
