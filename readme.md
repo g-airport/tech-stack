@@ -77,6 +77,7 @@
 | 博客 | 描述 | 链接 |
 | --- | --- | --- |
 | Russ Cox Blog 👍 | Golang 作者博客(**强烈推荐**)| [Research ! rsc](https://research.swtch.com/) |
+| Ian Lance Taylor 👍 | GCC | [Airs – Ian Lance Taylor](https://www.airs.com/blog/)
 | Rakyll 👍 | Google | [GO tool essentials](https://rakyll.org/go-tool-flags/) |
 | Faith Arslan 👍 | Faith Struct , Pool , Go Tool | [Faith Blog](https://arslan.io/) |
 | Anna Rob 👍 | Go Low Level | [Anna](https://blogtitle.github.io/categories/go/) |
