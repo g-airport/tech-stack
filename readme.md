@@ -137,6 +137,7 @@
 | Linux Zero Copy | Linux Journal | [go to](https://www.linuxjournal.com/article/6345) |
 | 语言内存机制 | Memory Profiling | [go to](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html) |  
 | CoreOS     | K8s Ecology      | [go to](https://coreos.com/blog/technical-posts) |
+| Distributed System | CMU class | [go to](http://www.cs.cmu.edu/~dga/15-440/F12/syllabus.html) |
 
 
 
