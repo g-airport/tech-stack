@@ -203,6 +203,7 @@
 | Ethereum Home | Document | [go to](http://www.ethdocs.org/en/latest/index.html) |
 | Kafka Application | Blog | [go to](https://www.confluent.io/blog/) |
 | Web Developer | Document | [go to](https://developer.mozilla.org/zh-CN/docs/Web) |
+| Open Resty Best Practice | GitBook |[go to](https://moonbingbing.gitbooks.io/openresty-best-practices/content/) |
 
 
 
