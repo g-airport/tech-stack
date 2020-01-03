@@ -33,14 +33,22 @@ func TestString2ByteFast(t *testing.T) {
 	t.Log(b)
 }
 
-func BenchmarkString2ByteFast(b *testing.B) {
+func BenchmarkBytes2StringFast(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		_ = Bytes2StringFast([]byte("string"))
 	}
+
 }
 
-func BenchmarkString2Byte(b *testing.B) {
+func BenchmarkString2ByteFast(b *testing.B) {
 	for i := 0; i < b.N; i++ {
-		_ = Byte2String([]byte("string"))
+		_ = String2ByteFast("string")
+	}
+}
+
+// use bigger string to test
+func BenchmarkString2ByteFastV2(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		_ = String2ByteFastV2("string")
 	}
 }
