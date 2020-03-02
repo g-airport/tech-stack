@@ -2,7 +2,6 @@ package tree
 
 import (
 	"fmt"
-	"github.com/xanzy/go-gitlab"
 )
 
 //example
