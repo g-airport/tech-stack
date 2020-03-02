@@ -19,6 +19,7 @@
 | Gopher Academy| [Get Golang Advent :2018(Cur)](https://blog.gopheracademy.com/series/advent-2018/) |
 | Dave Cheney 👍| [Dave :Author Paper](https://dave.cheney.net/category/golang)|
 | Golang China | [Go 语言中文网](https://studygolang.com/)
+| Gopher China Club | [Go CN VIP](https://gocn.vip/wiki/books)
 
 - Tips:
 
