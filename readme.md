@@ -42,6 +42,8 @@
 | Learn go with test | Book | [简体中文版](https://studygolang.gitbook.io/learn-go-with-tests/) |
 | | |[English Version](https://quii.gitbook.io/learn-go-with-tests) |
 | 面向信仰编程 | 浅谈 Go 语言实现原理 |[Go语言实现原理](https://draveness.me/golang/)|
+| Mastering Go | 玩转 Go | [Mastering Go](https://wskdsgcf.gitbook.io/mastering-go-zh-cn/) |
+
 
 
 ### Golang Advanced
