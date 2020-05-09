@@ -9,6 +9,7 @@
 | GO官方文档 |[GO Official Doc](https://golang.org/doc/) |
 | GO官方博客 |[GO Official Blog](https://blog.golang.org/)|
 | GO官方仓库 |[GO Source Repo](https://go.googlesource.com/) |
+| High Performance Go Workshop | [Geek Favourate 👍, Dave Cheney](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html)|
 | GO Dev   | [GO DEV](https://go.dev/) |
 | GO Help  | [GO Cmd Help](https://golang.org/pkg/cmd/go/internal/help/)|
 | Go Talks | [Talks Go](https://talks.golang.org/) |
