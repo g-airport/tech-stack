@@ -33,7 +33,7 @@
 
 | 书籍📚  | 描述🙄  | 链接🤖  |
 | --- | --- | --- |
-| GO入门指南   |  基础入门书籍（推荐go语言学习笔记）   |  [GO入门指南](https://go.tanglei.name/content/)   |
+| GO入门指南   |  基础入门书籍（推荐go语言学习笔记）   |  [GO入门指南](https://github.com/unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md)   |
 | GO语言圣经   |  入门进阶 | [GO语言圣经](https://books.studygolang.com/gopl-zh/)|
 | The GO Programming Language |   
 | GO知识图谱 | GoCN 介绍golang学习之路 | [GO知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0#map)
