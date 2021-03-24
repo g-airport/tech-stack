@@ -15,6 +15,7 @@
 | Go Talks | [Talks Go](https://talks.golang.org/) |
 | Go Wiki  | [Official](https://github.com/golang/go/wiki) |
 | Go Time | [Change Future](https://changelog.com/gotime)|
+| Go Debug | [Debugger](https://github.com/go-delve/delve/blob/master/README.md) |
 | Go Basic | [Getting up and running with Go](http://www.golangprograms.com/) |
 | Go OS Process Algo | [Go Concurrency](http://www.golangprograms.com/go-language/concurrency.html) |
 | Gopher Academy| [Get Golang Advent :2018(Cur)](https://blog.gopheracademy.com/series/advent-2018/) |
