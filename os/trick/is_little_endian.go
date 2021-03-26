@@ -17,8 +17,8 @@ func IsLittleEndian() bool {
 //小端(16进制):   04 03 02 01
 //大端：原来低位的（如04）放在高地址
 //小端：原来低位的（如04）放在低地址
-//MSB:MostSignificant Bit ------- 最高有效位
-//LSB:Least Significant Bit ------- 最低有效位
+//MSB:Most  Significant   Bit ------- 最高有效位
+//LSB:Least Significant   Bit ------- 最低有效位
 
 //int byteOrder() {
 //    union {
