@@ -3,5 +3,5 @@ package tree
 import "io"
 
 func xx() {
-	io.Copy()
+	io.Copy(nil, nil)
 }
